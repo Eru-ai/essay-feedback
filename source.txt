@@ -1,0 +1,4 @@
+count
+
+Jun 10
+The concerns about AI are real and worth taking seriously. Deepfakes are being used to spread lies. Algorithms can treat certain groups of people unfairly. And when automation takes over jobs without any support for the people affected, whole communities can struggle. Nobody is pretending these things aren't happening. But here's the problem with letting fear win — the technology keeps moving whether you're part of it or not. The people who decide how AI gets built, used, and controlled will be the ones who actually showed up and put in the effort to learn. Stepping back doesn't keep you safe from the risks, it just means someone else gets to make all the calls. The best way to make sure AI ends up being fair and good for everyone isn't to walk away from it — it's to understand it well enough to actually have a say in where it goes.
