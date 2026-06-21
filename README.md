@@ -2,7 +2,7 @@
 
 > AI-powered Excellence-level feedback on NCEA Level 2 English literary analysis essays.
 
-🚀 **[Live demo]([https://[your-streamlit-url].streamlit.app](https://essay-feedback-eru.streamlit.app/))** — try it now
+🚀 **[Live demo](https://essay-feedback-eru.streamlit.app/)** — try it now
 
 <img width="944" height="433" alt="image" src="https://github.com/user-attachments/assets/86ccec79-42d8-4600-9a6c-e3143dc2de38" />
 
@@ -20,7 +20,7 @@ Paste your literary analysis essay along with the source text (story, poem, arti
 
 ## How to use
 
-1. Open the [live app]([https://[your-streamlit-url].streamlit.app](https://essay-feedback-eru.streamlit.app/))
+1. Open the [live app](https://essay-feedback-eru.streamlit.app/)
 2. Paste or upload your source text (left) and your essay (right)
 3. Click **Get Feedback**
 4. Read the feedback, rewrite your essay, run it again
